@@ -1,4 +1,7 @@
-### Hi there 👋
+# Principal Investigator (PI): Unknownyeji 
+#### NaemamYeJi (NYJ), we study and develop everything I am curious about. 
+
+Please contact unknownyeji if you are interested in the research and join our lab!
 
 <!--
 **unknownyeji/unknownyeji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
